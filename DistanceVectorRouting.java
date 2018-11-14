@@ -24,7 +24,7 @@ class Node {
 	}
 }
 
-public class DistanceVectorRouting16054 {
+public class DistanceVectorRouting {
 	
 	static int INF = (int)1e8;
 	static int n, e;

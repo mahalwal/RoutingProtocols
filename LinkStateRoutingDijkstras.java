@@ -39,7 +39,7 @@ class WeightComparator implements Comparator<Node> {
     }
 }
 
-public class LinkStateRoutingDijkstras16054 {
+public class LinkStateRoutingDijkstras {
 	
 	static int INF = (int)1e8;
 	static int n, e;
